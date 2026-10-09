@@ -1,0 +1,14 @@
+{
+  "name": "elk-devops-practice-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Practice API that emits structured JSON logs for an ELK Stack lab",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
